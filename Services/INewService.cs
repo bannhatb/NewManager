@@ -13,5 +13,6 @@ namespace NewsManager.Services
         void Add(New n);
         void Update(New n);
         void Delete(int Id);
+        List<Category> GetCategories();
     }
 }

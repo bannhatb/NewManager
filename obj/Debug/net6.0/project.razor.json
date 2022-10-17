@@ -16303,18 +16303,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/New/Index.cshtml",
+      "TargetPath": "Views\\New\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/New/Add.cshtml",
+      "TargetPath": "Views\\New\\Add.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/News/Index.cshtml",
-      "TargetPath": "Views\\News\\Index.cshtml",
+      "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16330,6 +16335,11 @@
     {
       "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/vovanban/Documents/VS_code/C#/NewsManager/Views/New/Update.cshtml",
+      "TargetPath": "Views\\New\\Update.cshtml",
       "FileKind": "mvc"
     },
     {

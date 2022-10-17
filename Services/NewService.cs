@@ -31,6 +31,11 @@ namespace NewsManager.Services
             _dataContext.SaveChanges();
         }
 
+        public List<Category> GetCategories()
+        {
+            return _dataContext.Categories.ToList();
+        }
+
         public New GetNewById(int Id)
         {
             return _dataContext.News.FirstOrDefault(n => n.Id == Id);

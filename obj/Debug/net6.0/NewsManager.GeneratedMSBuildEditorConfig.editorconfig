@@ -23,8 +23,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/vovanban/Documents/VS_code/C\#/NewsManager/Views/New/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmV3L0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/vovanban/Documents/VS_code/C\#/NewsManager/Views/New/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmV3L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/vovanban/Documents/VS_code/C\#/NewsManager/Views/New/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTmV3L1VwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/vovanban/Documents/VS_code/C\#/NewsManager/Views/Shared/Error.cshtml]
