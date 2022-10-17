@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using NewsManager.Models;
+using NewsManager.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 var services = builder.Services;
@@ -19,6 +20,8 @@ services.AddDbContext<DataContext>(
         .EnableSensitiveDataLogging()
         .EnableDetailedErrors()
 );
+
+services.AddTransient<INewService, NewService>();
 
 var app = builder.Build();
 
